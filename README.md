@@ -31,7 +31,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elanthingal&style=flat-square&color=0e7490&label=Profile+visits" alt="Profile visits">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=elanthingal.elanthingal&amp;left_color=%2312212b&amp;right_color=%230e7490&amp;left_text=Profile%20visits&amp;radius=0" alt="Profile visits">
   <img src="https://img.shields.io/github/followers/elanthingal?style=flat-square&label=Followers&color=12212b" alt="GitHub followers">
 </p>
 
@@ -98,7 +98,7 @@
 
 <p align="center">
   <a href="https://github.com/elanthingal">
-    <img src="./assets/heartbeat.svg" alt="Commit heartbeat: full GitHub contribution history from 2016 to present, shown as weekly activity" width="100%">
+    <img src="./assets/heartbeat.svg" alt="Commit heartbeat: public GitHub contributions from 2016 to present, updated daily and shown as weekly activity" width="100%">
   </a>
 </p>
 
